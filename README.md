@@ -1,4 +1,12 @@
 # BLDropDownSlider
+
+<p align="center">
+<img src="http://i.imgur.com/J3yJzQy.gif">
+<br>
+[slow motion]
+</p>
+
+
 BLDropDownSlider allows you to create dropdown sliders, segmented controls, etc. within a table view. 
 
 This project contains a sample application using it. Just open the project in XCode, build it and run it.
@@ -39,9 +47,5 @@ Now in BLDropDownSlider.m fill the arrays with your custom content, set the row 
       section = 0;
 	}
       
-## Screenshots 
-![](https://github.com/brl214/BLDropDownSlider/blob/master/SliderScreen2.png)
-![](https://github.com/brl214/BLDropDownSlider/blob/master/SliderScreen1.png)
-
 
       
